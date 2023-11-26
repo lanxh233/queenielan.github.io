@@ -1,2 +1,2 @@
-# queenielan.github.io
+# Education
 blog
